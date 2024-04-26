@@ -1,0 +1,10 @@
+1-Type name of the first player (who is plaayer x)
+
+2-Type name of the second player (who is plaayer o)
+
+3-Press space to start the game
+
+4-Positions are numbered from 1 to 9 as shown in the grid
+
+5-choose the position where you want to play
+
